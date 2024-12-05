@@ -1,7 +1,8 @@
 --- Emmanuel Owusu ---
 
 
-contact: [**personal:** brandheads88@gmail.com -- 
+contact: [
+         **personal:** brandheads88@gmail.com -- 
 
 
           **work:** owusuework@gmail. --
